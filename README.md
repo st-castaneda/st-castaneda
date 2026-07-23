@@ -34,4 +34,4 @@ $ cat current_focus.txt
 
 ### `> connect`
 
-[LinkedIn](https://www.linkedin.com/in/stevencastaneda7/) · [holylab.local repo](https://github.com/st-castaneda/holylab-local.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevencastaneda7) [![GitHub](https://img.shields.io/badge/holylab.local-181717?style=flat&logo=github&logoColor=white)](https://github.com/st-castaneda/holylab-local.git)
