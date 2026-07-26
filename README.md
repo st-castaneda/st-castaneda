@@ -24,6 +24,16 @@ $ cat current_focus.txt
 
 ---
 
+### `> hackathons`
+**[HopeMapper](https://devpost.com/software/hopemapper)** — 🥇 Overall Winner · 🏅 People's Choice, Esri Weekend of Innovation 2025
+A GIS-powered web app built with a 5-person team to help foster care caseworkers match children to homes faster, using real-time availability, location, and needs-based scoring. Used ArcGIS Pro and geocoding to analyze home capacity and identify critical placement gaps.
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+🔗 [Devpost writeup](https://devpost.com/software/hopemapper) · [Project repo](https://github.com/lanaramadan/hopemapper)
+
+---
+
 ### `> tech.stack`
 
 **Infrastructure & Identity:** Proxmox VE · OPNsense · Windows Server / AD DS · WireGuard
