@@ -5,6 +5,7 @@ $ whoami
 ```
 
 **Steven Castaneda** — IT Support → Security Analyst
+
 Building `holylab.local`, a self-hosted enterprise homelab, from the ground up.
 
 ```
@@ -37,7 +38,9 @@ A GIS-powered web app built with a 5-person team to help foster care caseworkers
 ### `> tech.stack`
 
 **Infrastructure & Identity:** Proxmox VE · OPNsense · Windows Server / AD DS · WireGuard
+
 **Security:** Wazuh · Kali Linux · Nessus Essentials
+
 **Help Desk / Web:** osTicket · IIS · PHP · MariaDB
 
 ---
