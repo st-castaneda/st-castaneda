@@ -30,7 +30,7 @@ A GIS-powered web app built with a 5-person team to help foster care caseworkers
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
-🔗 [Devpost writeup](https://devpost.com/software/hopemapper) · [Project repo](https://github.com/lanaramadan/hopemapper)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/software/hopemapper) [![GitHub](https://img.shields.io/badge/HopeMapper-181717?style=flat&logo=github&logoColor=white)](https://github.com/lanaramadan/hopemapper)
 
 ---
 
