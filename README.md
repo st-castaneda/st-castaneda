@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=st-castaneda;IT+Support+%E2%86%92+Security+Analyst;Building+holylab.local)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Steven_Castaneda;IT+Support+%E2%86%92+Security+Analyst;Building+holylab.local)
 
 ```
 $ whoami
