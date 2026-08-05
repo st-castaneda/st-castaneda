@@ -10,7 +10,7 @@ $ cat current_focus.txt
 ```
 - 🎯 Targeting: IT Support / Help Desk roles → Junior Cybersecurity Analyst → SOC Analyst
 - 🔨 Currently: Phase 4 — Wazuh SIEM deployment + AD Attack/Defend
-- 📓 Documenting every build, break, and fix — real troubleshooting > highlight reel
+- 📓 Documenting every build, break, and fix: real troubleshooting > highlight reel
 ---
 ### `> featured_project`
 
