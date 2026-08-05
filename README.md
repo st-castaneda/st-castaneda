@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Steven_Casta%C3%B1eda;IT+Support+%E2%86%92+Security+Analyst;Building+Sentry+Lab)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Steven_Casta%C3%B1eda;Aspiring+Cybersecurity+Analyst;Building+Sentry+Lab)
 ```
 $ whoami
 ```
-**Steven Castaneda** — IT Support → Security Analyst
+**Steven Castaneda** — Aspiring Cybersecurity Analyst
 
 Building **Sentry Lab**, a self-hosted enterprise homelab, from the ground up.
 ```
